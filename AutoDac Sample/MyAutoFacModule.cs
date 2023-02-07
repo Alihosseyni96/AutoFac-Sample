@@ -1,8 +1,8 @@
 ﻿
 
-using AutoDac_Sample.Services;
 using Autofac;
 using Autofac.Core;
+using AutoFac_Sample.Services;
 
 namespace AutoDac_Sample
 {

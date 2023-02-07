@@ -1,4 +1,6 @@
-﻿namespace AutoDac_Sample.Services
+﻿using AutoFac_Sample.Services;
+
+namespace AutFac_Sample.Services
 {
     public class CustomerService : ICustomerService
     {

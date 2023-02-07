@@ -1,4 +1,4 @@
-﻿namespace AutoDac_Sample.Services
+﻿namespace AutoFac_Sample.Services
 {
     public class ProductService : IProductService
     {
